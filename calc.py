@@ -35,3 +35,4 @@ elif operation == "quotient":
         print("Erreur : Division par zéro.")
 else:
     print("Opération non reconnue.")
+
